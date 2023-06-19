@@ -1,2 +1,3 @@
-# 1.3-KodluyoruzFrontEnd_foodRecipeWebsite
-Kodluyoruz Eğitimi kapsamında düzenlenen 3 numaralı ödev
+# Assignment 3
+
+## In tihs assignment, we have built a website contains food recipe.
